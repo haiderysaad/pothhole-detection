@@ -1,0 +1,11 @@
+Flask
+flask-cors
+pymongo
+python-dotenv
+ultralytics
+opencv-python
+Pillow
+geopy
+PyJWT
+Werkzeug
+gunicorn
